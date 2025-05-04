@@ -7,3 +7,5 @@ Each week the raw teaching audio is recorded on the x32 console to a USB stick (
 ### [1. Audio Edit](audio-edit.md)
 
 ### [2. Website Upload](squarespace-pod-upload.md)
+
+### [3. Confirm Publish](publish-confirmation.md)

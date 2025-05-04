@@ -7,7 +7,7 @@
 > Read access to the `BRIGHT CITY MASTER PLAN` is also required
 
 
-- Navigate to https://brightcitysunbury.squarespace.com/login and authenticate
+- Navigate to [https://brightcitysunbury.squarespace.com/login](https://brightcitysunbury.squarespace.com/login) and authenticate
 
 - On the left browse to Teachings
 
