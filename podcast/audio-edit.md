@@ -2,19 +2,19 @@
 
 - Open Finder and locate `X32`, open and confirm a `.wav` file exists for the expected date/time
 
-![image](pictures/gb-wav-finder.png)
+![image](../pictures/podcast/gb-wav-finder.png)
 
 - Open `GarageBand` and copy the file from the USB onto the first track
 
-![image](pictures/gb-wav-file-import.gif)
+![image](../pictures/podcast/gb-wav-file-import.gif)
 
 - Scrub track to find the start of the teaching
 
-![image](pictures/gb-trim.gif)
+![image](../pictures/podcast/gb-trim.gif)
 
 - Enabled `Automation` and use the tool to fade in the audio. The goal here is a gradule ramping of volumn that reaches the normal level just before the speaker begins
 
-![image](pictures/gb-automation-fade-in.gif)
+![image](../pictures/podcast/gb-automation-fade-in.gif)
 
 - Go to the end of the track and scrub to find the "Amen" that closes the teaching. Start the fade-out automation here. 
 
@@ -41,4 +41,4 @@
 
 - Right click on file > `Get Info` and record the `Duration` from the `More Info` section. Should be in `MM.SS` format
 
-![image](pictures/finder-more-info.png)
+![image](../pictures/podcast/finder-more-info.png)
