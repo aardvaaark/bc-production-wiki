@@ -1,4 +1,4 @@
 ## Bright City Production Team Wiki
 
 
-1. [Podcast weekly workflow](podcast-workflow.md)
+### [1. Podcast weekly workflow](podcast/podcast-workflow.md)
