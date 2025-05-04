@@ -35,7 +35,13 @@
 
    - Click `Export`
 
+- Use headphones, set your Mac audio level to something 'normal' and set the overall track 'gain'. It should feel right and loud. 
 
+- If needed adjust the gain by:
+
+   - In the bottom section of GarageBand select `Controls` > `Track` > `Plug-ins`
+   - If needed search for the `Gain` plug-in under `Utilities`
+   - Use the gain control to increase the overall track volumn to a reasonable level (+10-15db need is not unusual)
 
 - Once the above is complete find the file and play it locally as a sanity check
 
