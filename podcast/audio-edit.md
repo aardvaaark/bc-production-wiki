@@ -42,3 +42,5 @@
 - Right click on file > `Get Info` and record the `Duration` from the `More Info` section. Should be in `MM.SS` format
 
 ![image](../pictures/podcast/finder-more-info.png)
+
+[Back to Workflow](podcast-workflow.md)
